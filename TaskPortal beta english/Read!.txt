@@ -1,0 +1,4 @@
+Before use, install python and run bibl.bat!
+
+Developer:Liderborder
+YouTube:https://www.youtube.com/@liderborber
