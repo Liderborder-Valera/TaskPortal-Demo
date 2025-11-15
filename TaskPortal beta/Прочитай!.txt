@@ -1,0 +1,4 @@
+Перед использавонием Установите python и запустите bibl.bat!
+
+Разработчик:Liderborder
+Ютуб:https://www.youtube.com/@liderborber
